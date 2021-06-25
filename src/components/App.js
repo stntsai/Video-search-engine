@@ -9,7 +9,7 @@ class App extends Component {
     state={videos:[], selectedVideo: null};
 
     componentDidMount(){
-        this.onTermSubmit('Stephen Curry')
+        this.onTermSubmit('nba highlight')
     }
     
     onTermSubmit= async (term)=>{

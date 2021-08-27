@@ -1,10 +1,10 @@
-# [Video Search Engine](https://raw.githack.com/stntsai/Video-search-engine/master/Video-search-engine.html)
+# [Video Search Engine](https://fervent-lamport-ea1e27.netlify.app/)
 
 Re-created Youtube video search interface containing video search bar, video detail, and related videos with actual video-search and view functions.
 The default search term is 'Stephen Curry'.
 
 URL:
-	[https://raw.githack.com/stntsai/Color-Guessing-Game/master/colorGame.html](https://raw.githack.com/stntsai/Color-Guessing-Game/master/colorGame.html)
+	[https://fervent-lamport-ea1e27.netlify.app/](https://fervent-lamport-ea1e27.netlify.app/)
 	
 Built with
 	

@@ -8,5 +8,5 @@ URL:
 	
 Built with
 	
-	React/ HTML/ CSS/ Javascript/ Youtube APIs
+	React/ HTML/ CSS/ Javascript/ Youtube APIs/ Axios/ Semantic UI
 	
